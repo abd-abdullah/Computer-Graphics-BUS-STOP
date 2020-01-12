@@ -6,10 +6,10 @@
 
 Computer Graphics BUS STOP is a 3rd year student class project , which is developed by C++ and OpenGL.
 
-##Features
+## Features
 * Graphically running and controlling bus by your mouse and keyboard
 
-##Requirements
+## Requirements
 
     CodeBlocks IDE
     C++
@@ -19,14 +19,14 @@ Open this project with a C++ ide like CodeBlocks and run it
 You did it !!  
 
 
-### N.B: If you have any query or face any problem feel free to knock me.
+#### N.B: If you have any query or face any problem feel free to knock me.
 Md. Abdullah  
 abdullah001rti@gmail.com  
 Linkedin: https://www.linkedin.com/in/abd1rti  
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
-##Contributor
+## Contributor
 ~Md. Abdullah
 ~Saad (Rassel Hossain)
 ~Alif Mariam Bijori
