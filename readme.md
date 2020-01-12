@@ -26,11 +26,11 @@ Linkedin: https://www.linkedin.com/in/abd1rti
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
-## Contributor
-~Md. Abdullah
-~Saad (Rassel Hossain)
-~Alif Mariam Bijori
-~Shaila Nasrin
+## Contributor 
+~Md. Abdullah  
+~Saad (Rassel Hossain)  
+~Alif Mariam Bijori  
+~Shaila Nasrin  
 
 ## License
 
